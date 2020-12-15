@@ -1,5 +1,5 @@
 # pioneerairplayremote
-Pioneer amplifier turn on with airplay stream detection  
+Pioneer amplifier powering on with airplay stream detection  
 
 Hello everyone. 
 
